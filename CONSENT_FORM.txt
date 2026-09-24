@@ -1,0 +1,45 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║           PARTICIPANT CONSENT FORM                           ║
+║           DeepVerify Research Project — Team 62              ║
+║           Amrita Vishwa Vidyapeetham · 2025                  ║
+╚══════════════════════════════════════════════════════════════╝
+
+PROJECT TITLE:
+  DeepVerify: Zero-Trust Interview Integrity Gateway
+
+PURPOSE:
+  We are collecting video and image data from volunteers to
+  train and test our academic research project. The data will
+  be used only for module testing and will NOT be published
+  or shared outside the research team.
+
+WHAT DATA IS COLLECTED:
+  • Short video clips of your face (for rPPG and Behavioral)
+  • Still images of a flat surface from your webcam (for PRNU)
+  • Frame timestamp logs (for Jitter analysis)
+  • Basic device and environment information
+
+HOW IT WILL BE USED:
+  • Used only for testing detection modules of DeepVerify
+  • Stored securely on team Google Drive with restricted access
+  • Identified only by a random Participant ID (not your name)
+  • Not shared with any external party
+  • Deleted after project submission (December 2025)
+
+YOUR RIGHTS:
+  • Participation is completely voluntary
+  • You may withdraw at any time before submission
+  • To request deletion of your data, contact the team with
+    your Participant ID
+
+FACULTY GUIDE:
+  Dr T Senthilkumar
+  Professor, Department of Computer Science & Engineering
+  Amrita Vishwa Vidyapeetham
+
+──────────────────────────────────────────────────────────────
+By running the collection tool and uploading your data,
+you confirm that you have read and understood this form
+and agree to participate voluntarily.
+──────────────────────────────────────────────────────────────
